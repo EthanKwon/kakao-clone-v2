@@ -31,4 +31,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - img 등 크기를 다르게 설정 해야 할 경우, **새로운 클래스 네임을 추가 (변경X)**
 
 4. **Find Page - Find** 만들기
-      - header에는 icon을 추가하고, ul에 추천 친구 항목을 추가한다. (Friends에서 한것과 동일)
+      - header에는 icon을 추가하고, ul에 추천 친구 항목을 추가 (Friends에서 한것과 동일)
+
+5. **More Page - More** 만들기
+      - header에는 Profile과 ul로 메뉴를 넣고, section을 통해 Seggestions를 추가 (동일 방식)
