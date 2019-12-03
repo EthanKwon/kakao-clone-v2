@@ -20,3 +20,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - **Font Awesome**을 이용하여 Header와 Navigation 구성
       - 각 페이지에 Header와 Navigation 모두 적용
       - Font Awesome의 **far(reguler icon)** 과 **fas(solid icon)** 을 이용해 선택 페이지 구분
+
+2. **Index Page - Chats** 만들기
+      - 하나의 Block에 Element가 많다면, **Element를 새로운 Block으로 지정 후** Class Name 지정 
+      - instagram을 통해 자신의 프로필 사진을 **개발자 도구** 를 이용하여 추출
