@@ -9,6 +9,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 ### KaKao Clone - HTML (19. 12. 02 ~ 19. 12. 03)
 
+#### ※ (필수) HTML 작성시 항상 구조를 생각 하면서 작성한다.
+
 1. **Status Bar** 만들기 
      - 실제 Kakao Talk 화면을 캡쳐해 브라우저에서 구성 요소를 확인 후 element 구성
      - **BEM** 규칙을 준수하며 Class Name 지정 ([BEM 참고 자료](http://getbem.com/))
