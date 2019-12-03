@@ -35,3 +35,6 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 5. **More Page - More** 만들기
       - header에는 Profile과 ul로 메뉴를 넣고, section을 통해 Seggestions를 추가 (동일 방식)
+
+6. **Settings Page - Settings** 만들기
+      - 이전 페이지와 동일 방식 사용
