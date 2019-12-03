@@ -38,3 +38,6 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 6. **Settings Page - Settings** 만들기
       - 이전 페이지와 동일 방식 사용
+
+7. **Chat Page - Chat** 만들기
+      - 이전 페이지와 동일 방식 사용
