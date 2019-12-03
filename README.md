@@ -24,3 +24,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 2. **Index Page - Chats** 만들기
       - 하나의 Block에 Element가 많다면, **Element를 새로운 Block으로 지정 후** Class Name 지정 
       - instagram을 통해 자신의 프로필 사진을 **개발자 도구** 를 이용하여 추출
+
+3. **Friends Page - Friends** 만들기
+      - 다른 HTML 파일의 img에 같은 CSS효과를 주기 위해서 **Global Class Name** 지정 
+      - 다른 부분의 Element들(프로필과 친구 등)이더라도, **같은 CSS Style을 지정해야 할 경우** 같은 Class Name을 지정
+      - img 등 크기를 다르게 설정 해야 할 경우, **새로운 클래스 네임을 추가 (변경X)**
