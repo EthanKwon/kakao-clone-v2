@@ -29,3 +29,6 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - 다른 HTML 파일의 img에 같은 CSS효과를 주기 위해서 **Global Class Name** 지정 
       - 다른 부분의 Element들(프로필과 친구 등)이더라도, **같은 CSS Style을 지정해야 할 경우** 같은 Class Name을 지정
       - img 등 크기를 다르게 설정 해야 할 경우, **새로운 클래스 네임을 추가 (변경X)**
+
+4. **Find Page - Find** 만들기
+      - header에는 icon을 추가하고, ul에 추천 친구 항목을 추가한다. (Friends에서 한것과 동일)
