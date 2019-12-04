@@ -41,3 +41,12 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 8. **Chat Page - Chat Main** 만들기
       - 이전 페이지와 동일 방식 사용
+
+
+### KaKao Clone - CSS (19. 12. 04)
+
+1. **CSS Reset** 적용하기
+      - 모든 브라우저에서 **같은 CSS style** 로 부터 시작하기 위해 설정
+      - [CSS Reset](https://meyerweb.com/eric/tools/css/reset/)의 내용을 **reset.css에 붙여넣기** 하기
+      - styles.css에서 reset 파일을 **@import** 하기
+      - [Normalize CSS](https://necolas.github.io/normalize.css/)를 이용하여 설정을 할 수 있음
