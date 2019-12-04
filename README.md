@@ -60,3 +60,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - **flex** 로 header의 아이콘 정렬하기
       - **cursor** 변경하기 
       - **margin** 으로 공간주기 
+
+4. **navgation bar style** 적용하기
+      - **fixed**로 navigation bar 위치 고정하기
+      - **fixed** 사용시 항상 **width** 지정 할 것
+      - **box-sizing**으로 element의 공간 변화 고정하기
