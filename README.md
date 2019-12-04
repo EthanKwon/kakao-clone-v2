@@ -1,4 +1,4 @@
-# kakao-clone-v2
+# :chocolate_bar: kakao-clone-v2
  
 Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
