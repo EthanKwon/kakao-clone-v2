@@ -50,3 +50,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - [CSS Reset](https://meyerweb.com/eric/tools/css/reset/)의 내용을 **reset.css에 붙여넣기** 하기
       - styles.css에서 reset 파일을 **@import** 하기
       - [Normalize CSS](https://necolas.github.io/normalize.css/)를 이용하여 설정을 할 수 있음
+
+2. **Google Font** 적용하기
+      - [Google Font](https://fonts.google.com/)를 이용하여 Font를 적용
+      - 원하는 Font와 필요한 굵기들을 선택한 후, **@import**를 하기
+      - 속도를 위해 **원하는 Font** 굵기만 사용 할 것
