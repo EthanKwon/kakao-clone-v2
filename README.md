@@ -55,3 +55,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - [Google Font](https://fonts.google.com/)를 이용하여 Font를 적용
       - 원하는 Font와 필요한 굵기들을 선택한 후, **@import**를 하기
       - 속도를 위해 **원하는 Font** 굵기만 사용 할 것
+
+3. **header style** 적용하기
+      - **flex** 로 header의 아이콘 정렬하기
+      - **cursor** 변경하기 
+      - **margin** 으로 공간주기 
