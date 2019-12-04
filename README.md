@@ -66,7 +66,11 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - **fixed** 사용시 항상 **width** 지정 할 것
       - **box-sizing**으로 element의 공간 변화 고정하기
 
-5. **message badge** 적용하기
+5. **message badge style** 적용하기
       - **relative** 와 **absolute**를 이용하여 메세지 아이콘 우측 상단에 위치시키기
       - **flex**를 이용하여 글자를 element 정 가운데 위치시키기
       - **border-radius**를 이용하여 element 원형으로 만들기
+
+6. **user image style** 적용하기
+      - **border-radius**를 이용하여 element 테두리 조정하기
+      - **flex**를 이용하여 user 정보 위치 조정하기
