@@ -76,5 +76,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - **flex**를 이용하여 user 정보 위치 조정하기
 
 7. **friend style** 적용하기 
-   -  class 별 **font-size**와 **opacity** 조정하기
-   -  class 별 **image size** 조정하기
+      - class 별 **font-size**와 **opacity** 조정하기
+      - class 별 **image size** 조정하기
+
+8. **frineds style** 적용하기
+      - 위와 같은 방식으로 스타일 조정
