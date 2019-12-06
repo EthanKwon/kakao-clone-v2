@@ -87,3 +87,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 10. **more style** 적용하기
       - 위와 같은 방식으로 스타일 조정
+
+11. **setting style** 적용하기
+      - **last-child**를 이용하여 리스트에 마지막 항목만 margin 조정하기
+      - **curser**를 이용하여 element를 가리키는 커서의 모양 바꾸기
