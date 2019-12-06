@@ -84,3 +84,6 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 9. **find style** 적용하기
       - 위와 같은 방식으로 스타일 조정
+
+10. **more style** 적용하기
+      - 위와 같은 방식으로 스타일 조정
