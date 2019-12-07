@@ -2,12 +2,15 @@
   padding: 0;
 }
 
-.chat-body .status-bar,
+.chat-body .status-bar {
+  padding: 5px 25px;
+}
 .chat-body .header {
-  padding: 0 20px;
+  padding: 20px;
 }
 
-.chat {
+.chat__screen {
+  margin-top: 85px;
   background-image: url("../images/chatBg.png");
   min-height: 100vh;
 }

@@ -1,3 +1,7 @@
+.settings {
+  margin-top: 85px;
+}
+
 .settings .settings__sections {
   border-top: 1px solid #f0f0f0;
   padding: 30px 0;

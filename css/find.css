@@ -1,3 +1,6 @@
+.find {
+  margin-top: 85px;
+}
 .find .find__header-list {
   display: flex;
   justify-content: space-around;

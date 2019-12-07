@@ -1,3 +1,7 @@
+.more {
+  margin-top: 85px;
+}
+
 .more .more__btn-list,
 .more__suggestions-list {
   display: flex;
