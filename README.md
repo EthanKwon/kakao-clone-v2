@@ -96,3 +96,4 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
       - [stripe](https://stripe.com/)에서 **box-shedow** 효과 가져오기
       - [subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)에서 채팅방 배경화면 가져오기
       - **margin : 0 auto , left : 0 , right : 0** 설정을 통해 element 가운데 정렬하기
+      - **padding**을 통해 element의 모양을 만들기

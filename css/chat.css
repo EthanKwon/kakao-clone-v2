@@ -50,3 +50,59 @@
 .chat__write-column input:focus {
   outline: none;
 }
+
+.chat__screen .chat__messages {
+  padding-top: 20px;
+  border-top: 2px solid #f7f7f7;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0 20px;
+  padding-top: 30px;
+}
+
+.chat__messages .chat__timestamp {
+  background-color: white;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px,
+    rgba(0, 0, 0, 0.024) 0px -6px 16px -6px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+
+.message .message__content {
+  width: 80%;
+}
+
+.chat__incoming-message img {
+  width: 30px;
+  border-radius: 15px;
+  margin-right: 20px;
+}
+
+.chat__incoming-message {
+  align-self: flex-start;
+}
+
+.chat__sending-message {
+  align-self: flex-end;
+}
+
+.message .message__bubble {
+  background-color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px,
+    rgba(0, 0, 0, 0.024) 0px -6px 16px -6px;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
