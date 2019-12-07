@@ -91,3 +91,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 11. **setting style** 적용하기
       - **last-child**를 이용하여 리스트에 마지막 항목만 margin 조정하기
       - **curser**를 이용하여 element를 가리키는 커서의 모양 바꾸기
+
+12. **chating style** 적용하기
+      - [stripe](https://stripe.com/)에서 **box-shedow** 효과 가져오기
+      - [subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)에서 채팅방 배경화면 가져오기
+      - **margin : 0 auto , left : 0 , right : 0** 설정을 통해 element 가운데 정렬하기
