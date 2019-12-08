@@ -8,6 +8,10 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 ---
 
+## 완성된 화면
+
+![finished friends](./finished-image/Friends.png)
+
 ### KaKao Clone - HTML (19. 12. 02 ~ 19. 12. 03)
 
 #### ※ (필수) HTML 작성시 항상 구조를 생각 하면서 작성한다.
