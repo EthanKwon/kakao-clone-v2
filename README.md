@@ -117,3 +117,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
     - **padding**을 통해 element의 모양을 만들기
     - 클래스별 말풍선에 **border-radius** 개별 적용하기
     - 클래스별 말풍선에 **line-gradient** 적용하기
+
+### Kakao Clone 추가 사항 (19. 12. 08)
+
+1. **네비게이션 뱃지** 모든 화면에 추가
