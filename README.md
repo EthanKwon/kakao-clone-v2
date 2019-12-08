@@ -10,6 +10,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 ## 완성된 화면
 
+#### 1. finished friends (카카오톡 친구 화면 창)
+
 ![finished friends](./finished-image/Friends.png)
 
 ### KaKao Clone - HTML (19. 12. 02 ~ 19. 12. 03)
