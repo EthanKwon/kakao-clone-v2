@@ -116,3 +116,4 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
     - **margin : 0 auto , left : 0 , right : 0** 설정을 통해 element 가운데 정렬하기
     - **padding**을 통해 element의 모양을 만들기
     - 클래스별 말풍선에 **border-radius** 개별 적용하기
+    - 클래스별 말풍선에 **line-gradient** 적용하기
