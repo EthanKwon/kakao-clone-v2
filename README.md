@@ -50,7 +50,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 8. **Chat Page - Chat Main** 만들기
    - 이전 페이지와 동일 방식 사용
 
-### KaKao Clone - CSS (19. 12. 04)
+### KaKao Clone - CSS (19. 12. 04 ~ 19. 12. 08)
 
 1. **CSS Reset** 적용하기
 
