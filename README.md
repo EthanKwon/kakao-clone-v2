@@ -12,7 +12,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 #### 1. finished friends (카카오톡 친구 화면 창)
 
-<img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/Friends.png" width="40%" height="40%">
+<img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/Friends.png" width="30%">
 
 ### KaKao Clone - HTML (19. 12. 02 ~ 19. 12. 03)
 
