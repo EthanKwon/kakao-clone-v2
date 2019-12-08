@@ -1,29 +1,54 @@
 .friends,
 .chats {
-  margin-top: 85px;
+  margin: 80px 0;
 }
 
 .friends .friends__header {
   padding-bottom: 5px;
+  border-bottom: 1px solid #f0f0f0;
 }
 
 .friends .friends__plus {
-  margin: 15px 0;
-  padding-top: 15px;
-  border-top: 1px solid #f0f0f0;
+  margin: 10px 0;
   border-bottom: 1px solid #f0f0f0;
 }
 
 .friends__plus .friends__title,
-.friends__list .friends__title {
+.friends__list .friends__title,
+.friend__more {
   display: flex;
   justify-content: space-between;
   font-size: 14px;
   opacity: 0.4;
   font-weight: 600;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
-.friend__now-listening i {
-  color: #51cc77;
+.friends__plus .friend:nth-last-child() {
+  margin-bottom: 10px;
+}
+.friend__birthday-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.friend__birthday-icon i {
+  padding: 15px 16.25px;
+  font-size: 20px;
+  background-color: #e28075;
+  color: white;
+  border-radius: 40%;
+  margin-right: 15px;
+}
+
+.friends__title i {
+  cursor: pointer;
+}
+
+.friend__more {
+  cursor: pointer;
+  opacity: 0.6;
+}
+.friend__more span {
+  margin-right: 5px;
 }
