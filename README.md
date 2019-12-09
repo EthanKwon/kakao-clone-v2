@@ -127,6 +127,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 ### Kakao Clone Animation (19. 12. 09)
 
 1. **chating animation** 적용하기
+
    - **transition**을 통해 focus시 양쪽 아이콘이 사라지도록 효과를 넣기
    - **'display : none;'** 으로는 transition 효과를 줄 수 없기 때문에 **opacity : 0**으로 설정
    - animation 효과를 주기 위해서는 **해당 Element 뒤에 위치** 해야 한다.
@@ -135,9 +136,14 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
    - **animation**을 통해 그림자 효과를 단계별로 적용 및 메세지를 양쪽에서 들어오는 듯한 효과를 줌
    - **forward**는 animation 종료 후에도 마지막 값을 유지 하도록 함
    - **transform rotate**를 이용해 user image 회전 시키기
+
 2. **전체 animation** 적용하기
+
    - 화면 loading시 **transform**으로 위로 올라가는 animation 효과 넣기
    - **animation-delay**를 통해 시간 지연 후 animation 동작 시키기
+
+3. **media-quer** 적용하기
+   - **media-query**를 이용하여 화면이 530px이상이면 가려지도록 설정
 
 ### Kakao Clone 추가 사항 (19. 12. 08)
 
