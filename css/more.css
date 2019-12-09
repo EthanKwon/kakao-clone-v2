@@ -2,10 +2,53 @@
   margin-top: 85px;
 }
 
+.more .more__pay {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #f3f3f3;
+  padding: 15px 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.more .more__pay-name {
+  display: inline;
+  font-weight: 700;
+}
+.more .more__pay-money {
+  font-size: 14px;
+  font-weight: 600;
+  opacity: 0.5;
+}
+.more .more__pay-btn {
+  font-size: 12px;
+  font-weight: 600;
+  background-color: white;
+  padding: 2px 5px;
+  border: 1px solid #f0f0f0;
+  border-radius: 5px;
+}
+
+.more .more__pay-send,
+.more .more__pay-pay {
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0 10px;
+}
+
+.more .more__pay-pay {
+  padding-right: 0;
+  border-left: 1px solid #e0e0e0;
+}
+
 .more .more__btn-list,
 .more__suggestions-list {
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   margin: 30px 0;
   margin-left: 10px;
 }
@@ -13,44 +56,38 @@
 .more .more__btn,
 .more .more__suggestion {
   display: flex;
+  width: 75px;
   justify-content: center;
   align-items: center;
   flex-flow: column;
-  margin-right: 40px;
+  padding: 10px 0;
+  margin: 0 15px;
   cursor: pointer;
 }
 
+.more .more__btn-icon i {
+  font-size: 40px;
+}
+
 .more .more__btn-title {
-  font-size: 15px;
+  font-size: 12px;
   margin-top: 10px;
 }
-
-.more .more__suggestions {
-  border-top: 1px solid #f0f0f0;
-  padding-top: 20px;
+.more .more__dat-parent {
+  position: relative;
+}
+.more .more__dat {
+  position: absolute;
+  top: -35px;
+  right: 5px;
+  font-size: 50px;
+  color: red;
 }
 
-.more .more__title {
-  font-weight: 600;
-  opacity: 0.8;
-  margin-bottom: 20px;
+.more .more__kakao {
+  color: #fed100;
 }
 
-.suggestion .suggestion-title {
-  font-size: 13px;
-  margin-top: 10px;
-}
-
-.suggestion .suggestion-icon {
-  background-color: #fce006;
-  border-radius: 10px;
-  padding: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.suggestion-icon i {
-  font-size: 28px;
-  color: white;
+.more .more__melon {
+  color: #70dd65;
 }

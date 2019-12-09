@@ -27,7 +27,7 @@
 .friend__content .friend__name {
   display: block;
   font-weight: 600;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .friend__name i,
@@ -91,4 +91,22 @@
   margin: 2.5px;
   width: 25px;
   height: 25px;
+}
+
+.friend__column .friend__my,
+.friend__column .friend__con {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 5px 15px;
+  border: 1px solid #f0f0f0;
+  border-radius: 15px;
+  margin-right: 5px;
+}
+
+.friend__column .friend__con {
+  padding: 5px 10px;
+}
+
+.friend__column .friend__con i {
+  color: #309041;
 }
