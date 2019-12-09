@@ -176,3 +176,10 @@
   border: 1px solid white;
   border-radius: 3px;
 }
+
+.more .more__ad,
+.more .more__ad-badge,
+.more .more__ad-btn,
+.more .more__ad-content {
+  animation: fadeIn 0.5s ease-in-out;
+}
