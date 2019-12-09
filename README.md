@@ -166,6 +166,12 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
    - 옛 화면 유지 (새로운 html 형식이라 추후에 추가 예정)
 
 4. **More 화면** 수정
+
    - **Suggestion** 부분 삭제
    - **Pay** 부분 추가
    - **Button** 추가 및 **flex**로 4개씩 고정
+   - **Mail, Calender** 항목 추가
+   - **Ad(광고)** 항목 추가
+
+5. **nav-bar** 수정
+   - **Nav badge**에 회전 animation 추가

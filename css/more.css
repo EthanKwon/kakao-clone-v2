@@ -1,5 +1,5 @@
 .more {
-  margin-top: 85px;
+  margin: 85px 0;
 }
 
 .more .more__pay {
@@ -28,6 +28,7 @@
   padding: 2px 5px;
   border: 1px solid #f0f0f0;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .more .more__pay-send,
@@ -49,7 +50,7 @@
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  margin: 30px 0;
+  margin: 20px 0;
   margin-left: 10px;
 }
 
@@ -67,6 +68,22 @@
 
 .more .more__btn-icon i {
   font-size: 40px;
+}
+
+@keyframes iconSizing {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.more__btn-icon .icon-gift {
+  animation: iconSizing 1s ease-in-out;
+  animation-iteration-count: 2;
 }
 
 .more .more__btn-title {
@@ -90,4 +107,79 @@
 
 .more .more__melon {
   color: #70dd65;
+}
+
+.more .more__sub-column {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+  padding: 20px 30px;
+}
+
+.more .more__sub-mail {
+  margin-right: 155px;
+}
+
+.more .more__sub-title {
+  font-size: 14px;
+  font-weight: 600;
+  margin-right: 5px;
+}
+
+.more .more__sub-content {
+  font-size: 12px;
+  font-weight: 600;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.more .more__sub-img {
+  position: relative;
+  padding: 20px 0;
+}
+
+.more .more__ad {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.more .more__ad-badge {
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  padding: 3px 5px;
+  border-radius: 10px;
+  font-size: 5px;
+  color: white;
+  font-weight: 600;
+  background-color: rgba(139, 139, 139, 0.2);
+}
+
+.more .more__ad-content {
+  position: absolute;
+  bottom: 35px;
+  left: 10px;
+  font-size: 12px;
+  color: white;
+  font-weight: 600;
+}
+
+.more .more__ad-btn {
+  position: absolute;
+  bottom: 30px;
+  right: 8px;
+  font-size: 10px;
+  color: white;
+  font-weight: 600;
+  padding: 5px;
+  border: 1px solid white;
+  border-radius: 3px;
+}
+
+.more .more__ad,
+.more .more__ad-badge,
+.more .more__ad-btn,
+.more .more__ad-content {
+  animation: fadeIn 0.5s ease-in-out;
 }
