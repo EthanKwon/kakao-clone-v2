@@ -44,18 +44,15 @@
   border-left: 1px solid #e0e0e0;
 }
 
-.more .more__btn-list,
-.more__suggestions-list {
+.more .more__btn-list {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   margin: 20px 0;
-  margin-left: 10px;
 }
 
-.more .more__btn,
-.more .more__suggestion {
+.more .more__btn {
   display: flex;
   width: 75px;
   justify-content: center;
