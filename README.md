@@ -164,6 +164,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
    - **추천 친구** 추가
    - 옛 화면 유지 (새로운 html 형식이라 추후에 추가 예정)
+   - **header btn**에 cursor 추가
 
 4. **More 화면** 수정
 
