@@ -132,8 +132,8 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
    - animation 효과를 주기 위해서는 **해당 Element 뒤에 위치** 해야 한다.
    - **transform**과 **transition**을 통해 focus시 위치 이동을 하도록 변경
    - **margin : 0 auto**를 통해 element를 가운데에 위치시킴
-   -
-   -
+   - **animation**을 통해 그림자 효과를 단계별로 적용 및 메세지를 양쪽에서 들어오는 듯한 효과를 줌
+   - **forward**는 animation 종료 후에도 마지막 값을 유지 하도록 함
 
 ### Kakao Clone 추가 사항 (19. 12. 08)
 
