@@ -11,6 +11,7 @@
   justify-content: center;
   align-items: center;
   flex-flow: column;
+  cursor: pointer;
 }
 
 .header-btn .header-btn__icon {
