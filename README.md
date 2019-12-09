@@ -134,6 +134,10 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
    - **margin : 0 auto**를 통해 element를 가운데에 위치시킴
    - **animation**을 통해 그림자 효과를 단계별로 적용 및 메세지를 양쪽에서 들어오는 듯한 효과를 줌
    - **forward**는 animation 종료 후에도 마지막 값을 유지 하도록 함
+   - **transform rotate**를 이용해 user image 회전 시키기
+2. **전체 animation** 적용하기
+   - 화면 loading시 **transform**으로 위로 올라가는 animation 효과 넣기
+   - **animation-delay**를 통해 시간 지연 후 animation 동작 시키기
 
 ### Kakao Clone 추가 사항 (19. 12. 08)
 
