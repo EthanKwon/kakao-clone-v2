@@ -11,9 +11,21 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 ## 완성된 화면
 
-#### 1. finished friends (카카오톡 친구 화면 창)
+#### finished friends (카카오톡 친구 화면 창) / finished chats (카카오톡 친구 채팅 창) / finished find (카카오톡 친구 찾기 창)
 
-<img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/Friends.png" width="30%">
+<div>
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/Friends.png" width="30%"> 
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/chats.png" width="30%">
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/find.png" width="30%">
+</div>
+
+#### finished more (카카오톡 더보기 창) / finished settings (카카오톡 설정 창) / finished chat (카카오톡 채팅 창)
+
+<div>
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/more.png" width="30%"> 
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/settings.png" width="30%"> 
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/chat.png" width="30%"> 
+</div>
 
 ### KaKao Clone - HTML (19. 12. 02 ~ 19. 12. 03)
 
