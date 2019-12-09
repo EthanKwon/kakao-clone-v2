@@ -13,7 +13,7 @@
 }
 
 .chat__screen {
-  margin-top: 80px;
+  padding-top: 80px;
   background-image: url("../images/chatBg.png");
   min-height: 100vh;
   animation: none;
