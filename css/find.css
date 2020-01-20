@@ -4,6 +4,7 @@
 .find .find__header-list {
   display: flex;
   justify-content: space-around;
+  align-items: flex-start;
 }
 
 .find .find__header-btn {
@@ -22,6 +23,10 @@
   margin-top: 20px;
   font-size: 14px;
   font-weight: 600;
+  text-align: center;
+}
+
+.header-btn .header-btn__title:nth-child(2) {
 }
 
 .find .find__recommended {

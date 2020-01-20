@@ -4,15 +4,28 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
 ### :tv: 참고 영상 : Kakao Clone V2 (Nomad Coders - 노마드 코더)
 
-### :date: 공부 기간 : 19. 12. 02 ~ 진행중
+### :date: 공부 기간 : 19. 12. 02 ~ 19. 12. 09
 
+### :triangular_flag_on_post: 완성된 Kakao Clone : https://ethankwon.github.io/kakao-clone-v2/
 ---
 
 ## 완성된 화면
 
-#### 1. finished friends (카카오톡 친구 화면 창)
+#### finished friends (카카오톡 친구 화면 창) / finished chats (카카오톡 친구 채팅 창) / finished find (카카오톡 친구 찾기 창)
 
-<img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/Friends.png" width="30%">
+<div>
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/Friends.png" width="30%"> 
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/chats.png" width="30%">
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/find.png" width="30%">
+</div>
+
+#### finished more (카카오톡 더보기 창) / finished settings (카카오톡 설정 창) / finished chat (카카오톡 채팅 창)
+
+<div>
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/more.png" width="30%"> 
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/settings.png" width="30%"> 
+   <img src="https://github.com/EthanKwon/kakao-clone-v2/blob/master/finished-image/chat.png" width="30%"> 
+</div>
 
 ### KaKao Clone - HTML (19. 12. 02 ~ 19. 12. 03)
 
@@ -142,10 +155,10 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
    - 화면 loading시 **transform**으로 위로 올라가는 animation 효과 넣기
    - **animation-delay**를 통해 시간 지연 후 animation 동작 시키기
 
-3. **media-quer** 적용하기
+3. **media-query** 적용하기
    - **media-query**를 이용하여 화면이 530px이상이면 가려지도록 설정
 
-### Kakao Clone 추가 사항 (19. 12. 08)
+### Kakao Clone 추가 사항 (19. 12. 08 ~ 19. 12. 09)
 
 1. **Friends 화면** 수정
 
@@ -164,6 +177,7 @@ Kakao Clone Coding을 통해 HTML, CSS를 마스터 하자!
 
    - **추천 친구** 추가
    - 옛 화면 유지 (새로운 html 형식이라 추후에 추가 예정)
+   - **header btn**에 cursor 추가
 
 4. **More 화면** 수정
 
